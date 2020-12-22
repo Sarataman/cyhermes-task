@@ -1,2 +1,2 @@
-# cymberg-task
+# cymberg
 Created with CodeSandbox
