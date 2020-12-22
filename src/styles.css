@@ -3,8 +3,8 @@
   src: url('fonts/brHendrix.otf');
 } */
 @font-face {
-  font-family: circularStd;
-  src: url('assets/circular_std.otf');
+  font-family: brhendrix;
+  src: url('fonts/brHendrix.otf');
 }
 
 body {
